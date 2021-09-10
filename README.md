@@ -1,10 +1,7 @@
 
-<centre>
-
-  ![Visitor Count](https://profile-counter.glitch.me/{mfy2000}/count.svg)
-
-</centre>
-
+  <span>
+    <img align="center" src="https://profile-counter.glitch.me/{mfy2000}/count.svg" />
+  </span>
  
 # &#x1f4c8; GitHub Stats
 <div>
