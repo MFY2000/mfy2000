@@ -5,16 +5,7 @@
 
 </centre>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000&layout=compact)]
-
-(https://github.com/anuraghazra/github-readme-stats)
-
-[![mfy2000's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?mfy2000=willianrod)]
-
-(https://github.com/jaffar/mfy2000)
-
  
-
 # &#x1f4c8; GitHub Stats
 <a>
   <centre>
