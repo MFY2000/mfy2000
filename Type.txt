@@ -9,10 +9,12 @@ GitHub Stats
 
 Languages Timer
 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?mfy2000=willianrod" />
 
 
 
 Languages percentage
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000&layout=compact" />
 
 
 
