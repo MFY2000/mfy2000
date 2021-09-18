@@ -1,58 +1,75 @@
-Image:
-
+<!-- Image: -->
 
   ![Muhammad Fahad's Banner Image](./main.jpg)
 
-counter
-
+<!-- counter -->
+  <div>
     <img align="center" src="https://profile-counter.glitch.me/{mfy2000}/count.svg" />
+  </div>
+  
     [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mfy2000.mfy2000)](https://github.com/mfy2000)
 
-GitHub Stats
-
+<!-- GitHub Stats -->
+<div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mfy2000&show_icons=true&theme=radical" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfy2000" alt="GitHub Stats" />
+</div>
 
     ![Muhammad Fahad's github stats](https://github-readme-stats.vercel.app/api?username=mfy2000ash&show_icons=true&hide_border=true)
 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfy2000" alt="GitHub Stats" />
 
     [![Muhammad Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfy2000)](https://github.com/mfy2000/github-readme-stats)
 
+    ![Muhammad Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfy2000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-Languages Timer
+    - Customizing stats card
 
+    ![Muhammad Fahad's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mfy2000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+    - Setting card locale
+
+    ![Muhammad Fahad's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mfy2000&locale=es)
+
+
+
+<!-- Languages Timer -->
+<div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?mfy2000=willianrod" />
-
     <b><em>Programming activity (Last 7 days):</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mfy2000" alt="WakaTime" />
+</div>
 
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/mfy2000/github-readme-stats)
+
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/mfy2000/github-readme-stats)
 
     - Compact layout
 
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/mfy2000/github-readme-stats)
 
 
-Languages percentage
+<!-- Languages percentage -->
+<div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000&layout=compact" />
+</div>
+  
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000)](https://github.com/mfy2000/github-readme-stats)
 
     - Compact layout
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000&layout=compact)](https://github.com/mfy2000/github-readme-stats)
 
 
-Heading 
+<!-- Heading  -->
 #  Hey 👋🏽, I'm [Muhammad Fahad!](https://mfy2000.github.io) 
 ##  Hey 👋🏽, I'm [Muhammad Fahad!](https://mfy2000.github.io) 
 ###  Hey 👋🏽, I'm [Muhammad Fahad!](https://mfy2000.github.io) 
 
 
-Icon
-Languages
+<!-- Icon
+Languages -->
   <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  
   </code>
@@ -106,47 +123,47 @@ Languages
 
 
 
-Social media 
-Twitter
-
+<!-- Social media  -->
+<!-- Twitter -->
   <a href="https://twitter.com/mfy2000ash">
     <img align="left" alt="mfy2000ash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
 
 
-linkedin
+<!-- linkedin -->
   <a href="https://www.linkedin.com/in/mfy2000ash/">
     <img align="left" alt="mfy2000ash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 
-instagram
+<!-- instagram -->
   <a href="https://www.instagram.com/mfy2000ash/">
     <img align="left" alt="mfy2000ash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 
 
 
-Facebook 
+<!-- Facebook  -->
   <a href="https://www.facebook.com/mfy2000ash/">
     <img align="left" alt="mfy2000ash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
 
 
-Symbol
-Garph &#x1f4c8;
+<!-- Symbol -->
+<!--  Garph  -->
+&#x1f4c8; 
 
-Bolding 
+<!-- Bolding  -->
 **Talking about Personal Stuffs: **
 
-Resume
+<!-- Resume -->
 - 📝[Resume]
 👀 Stats
 
-Follower
+<!-- Follower -->
 [![GitHub followers](https://img.shields.io/github/followers/mfy2000.svg?style=social&label=Follow)](https://github.com/mfy2000?tab=followers)
 
 
-About
+<!-- About -->
 I'm Muhammad Fahad! 
   - <i>👨🏽‍💻 I’m currently working as a <b>Freelacer</b>, 🤔 I’m looking for help with Object-oriented programming (OOP) 😭;
   
@@ -156,14 +173,14 @@ I'm Muhammad Fahad!
 
 
 
-Learning:
+<!-- Learning: -->
   
   __Mobile Hybrid App Dev Using Flutter Certification__
   - [Flutter - Mobile Hybrid App Dev Using Flutter Certification Certificate]()
   - [Flutter - Mobile Hybrid App Dev Using Flutter Certification Certificate](https://www.facebook.com/jawanPakistan786/)
 
 
-Pin 
+<!-- Pin  -->
 
   <h4>#15 Projects in 6 platform 💯</h4>
 
