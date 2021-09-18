@@ -12,6 +12,8 @@
 
 <div style="display:flex;felx-direction:row;">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mfy2000" alt="GitHub Stats" />
+
 <img src="https://github-readme-stats.vercel.app/api/?username=mfy2000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Muhammad Fahad"/>
 
 
@@ -127,9 +129,9 @@ I'm Muhammad Fahad!
 
 <a href="https://www.linkedin.com/in/muhammadfahad/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<a href="https://www.instagram.com/in/muhammadfahad/">![instagram](https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/in/muhammadfahad/">![instagram](https://img.shields.io/badge/instagram-ff69b4-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
-<a href="https://www.facebook.com/in/muhammadfahad/">![Facebook](https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="https://www.facebook.com/in/muhammadfahad/">![Facebook](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 
 
 <!-- Learning: -->
