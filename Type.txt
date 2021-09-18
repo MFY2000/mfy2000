@@ -16,14 +16,33 @@ GitHub Stats
 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfy2000" alt="GitHub Stats" />
 
+    [![Muhammad Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfy2000)](https://github.com/mfy2000/github-readme-stats)
+
+
 Languages Timer
 
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?mfy2000=willianrod" />
 
+    <b><em>Programming activity (Last 7 days):</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mfy2000" alt="WakaTime" />
+
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+    - Compact layout
+
+    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Languages percentage
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000&layout=compact" />
+
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+    - Compact layout
+
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Heading 
@@ -127,11 +146,17 @@ Follower
 [![GitHub followers](https://img.shields.io/github/followers/mfy2000.svg?style=social&label=Follow)](https://github.com/mfy2000?tab=followers)
 
 
-Introduction
+About
 I'm Muhammad Fahad! 
-  - <i>👨🏽‍💻 I’m currently working as a <b>Freelacer</b>, 🤔 I’m looking for help with Object-oriented programming (OOP) 😭, 💬 on email 📫: fahad.yahya18@gmail.com.
+  - <i>👨🏽‍💻 I’m currently working as a <b>Freelacer</b>, 🤔 I’m looking for help with Object-oriented programming (OOP) 😭;
+  
+ <h2>📫 Contact me:</h2>
 
-  Learning:
+  <a href="mailto:ConnectWith@muhammadfahad.com">![ConnectWith@muhammadfahad.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/muhammadfahad/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
+
+Learning:
   
   __Mobile Hybrid App Dev Using Flutter Certification__
   - [Flutter - Mobile Hybrid App Dev Using Flutter Certification Certificate]()
@@ -158,3 +183,4 @@ Pin
       </a>
     </p>
   </div>
+
