@@ -6,8 +6,8 @@
   <div>
     <img align="center" src="https://profile-counter.glitch.me/{mfy2000}/count.svg" />
   </div>
-  
-    [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mfy2000.mfy2000)](https://github.com/mfy2000)
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mfy2000.mfy2000)](https://github.com/mfy2000)
 
 <!-- GitHub Stats -->
 <div>
@@ -15,20 +15,20 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfy2000" alt="GitHub Stats" />
 </div>
 
-    ![Muhammad Fahad's github stats](https://github-readme-stats.vercel.app/api?username=mfy2000ash&show_icons=true&hide_border=true)
+![Muhammad Fahad's github stats](https://github-readme-stats.vercel.app/api?username=mfy2000&show_icons=true&hide_border=true)
 
 
-    [![Muhammad Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfy2000)](https://github.com/mfy2000/github-readme-stats)
+[![Muhammad Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfy2000)](https://github.com/mfy2000/github-readme-stats)
 
-    ![Muhammad Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfy2000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Muhammad Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfy2000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-    - Customizing stats card
+- Customizing stats card
 
-    ![Muhammad Fahad's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mfy2000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Muhammad Fahad's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mfy2000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-    - Setting card locale
+- Setting card locale
 
-    ![Muhammad Fahad's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mfy2000&locale=es)
+![Muhammad Fahad's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mfy2000&locale=es)
 
 
 
@@ -40,13 +40,13 @@
 </div>
 
 
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/mfy2000/github-readme-stats)
+[![Muhammad Fahad's stats](https://github-readme-stats.vercel.app/api/wakatime?username=mfy2000)](https://github.com/mfy2000/github-readme-stats)
 
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/mfy2000/github-readme-stats)
+[![Muhammad Fahad's stats](https://github-readme-stats.vercel.app/api/wakatime?username=mfy2000&hide_progress=true)](https://github.com/mfy2000/github-readme-stats)
 
-    - Compact layout
+- Compact layout
 
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/mfy2000/github-readme-stats)
+[![Muhammad Fahad's stats](https://github-readme-stats.vercel.app/api/wakatime?username=mfy2000&layout=compact)](https://github.com/mfy2000/github-readme-stats)
 
 
 <!-- Languages percentage -->
@@ -55,11 +55,11 @@
 </div>
   
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000)](https://github.com/mfy2000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000)](https://github.com/mfy2000/github-readme-stats)
 
-    - Compact layout
+- Compact layout
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000&layout=compact)](https://github.com/mfy2000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000&layout=compact)](https://github.com/mfy2000/github-readme-stats)
 
 
 <!-- Heading  -->
@@ -125,26 +125,26 @@ Languages -->
 
 <!-- Social media  -->
 <!-- Twitter -->
-  <a href="https://twitter.com/mfy2000ash">
-    <img align="left" alt="mfy2000ash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <a href="https://twitter.com/mfy2000">
+    <img align="left" alt="mfy2000 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
 
 
 <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/mfy2000ash/">
-    <img align="left" alt="mfy2000ash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/mfy2000/">
+    <img align="left" alt="mfy2000 LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 
 <!-- instagram -->
-  <a href="https://www.instagram.com/mfy2000ash/">
-    <img align="left" alt="mfy2000ash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <a href="https://www.instagram.com/mfy2000/">
+    <img align="left" alt="mfy2000 Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 
 
 
 <!-- Facebook  -->
-  <a href="https://www.facebook.com/mfy2000ash/">
-    <img align="left" alt="mfy2000ash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <a href="https://www.facebook.com/mfy2000/">
+    <img align="left" alt="mfy2000 Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
 
 
@@ -169,15 +169,19 @@ I'm Muhammad Fahad!
   
  <h2>📫 Contact me:</h2>
 
-  <a href="mailto:ConnectWith@muhammadfahad.com">![ConnectWith@muhammadfahad.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/muhammadfahad/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:ConnectWith@muhammadfahad.com">![ConnectWith@muhammadfahad.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
+<a href="https://www.linkedin.com/in/muhammadfahad/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<a href="https://www.instagram.com/in/muhammadfahad/">![instagram](https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)</a>
+
+<a href="https://www.facebook.com/in/muhammadfahad/">![Facebook](https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)</a>
 
 
 <!-- Learning: -->
   
   __Mobile Hybrid App Dev Using Flutter Certification__
-  - [Flutter - Mobile Hybrid App Dev Using Flutter Certification Certificate]()
-  - [Flutter - Mobile Hybrid App Dev Using Flutter Certification Certificate](https://www.facebook.com/jawanPakistan786/)
+ - [Flutter - Mobile Hybrid App Dev Using Flutter Certification Certificate](https://www.facebook.com/jawanPakistan786/)
 
 
 <!-- Pin  -->
