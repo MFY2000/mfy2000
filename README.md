@@ -1,44 +1,20 @@
-<!-- Image: -->
-
-![Muhammad Fahad's Banner Image](./main.jpg)
-<h1 align="center"> Hey 👋🏽, I'm <a href="_blank">Muhammad Fahad</a> </h1>
-
-<!-- counter -->
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mfy2000.mfy2000)](https://github.com/mfy2000)
-
-
-<!-- GitHub Stats -->
-
-<div style="display:flex;felx-direction:row;">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mfy2000" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/?username=mfy2000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Muhammad Fahad"/>
-
-</div>
-
-
-<!-- Languages Timer -->
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?mfy2000=willianrod" />
-    <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?mfy2000=willianrod" />
-</div>
-
-
-[![Muhammad Fahad's stats](https://github-readme-stats.vercel.app/api/wakatime?mfy2000)](https://github.com/mfy2000/github-readme-stats)
-
-
-<!-- Languages percentage -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000)](https://github.com/mfy2000/github-readme-stats)
-
-- Compact layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000&layout=compact)](https://github.com/mfy2000/github-readme-stats)
-
+<div style="display: flex;flex-direction: column;">
+        <div><img src="main.jpg" style="width: 100%;height: 100%;" />
+            <span style="position: absolute;top: 5%;right: 5%;">
+                <img src="https://visitor-badge.laobi.icu/badge?page_id=mfy2000.mfy2000" style="z-index: 999;width: 120%;" />
+            </span>
+        </div>
+        <div style="display: inherit;justify-content: center;">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=Mfy2000&amp;theme=ayu-light" />
+        </div>
+        <div style="display: inherit;justify-content: center;">
+            <span>
+                <img src="https://github-readme-stats.vercel.app/api/?username=mfy2000&amp;&amp;theme=ayu-light" style="padding-right: 5%;" /></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000&amp;layout=compact&amp;theme=ayu-light" style="height: 100%;" />
+                </span>
+        </div>
+        <div>  
+        </div>
+    </div>
 
 
 <!-- Icon
