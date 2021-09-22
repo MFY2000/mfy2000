@@ -1,9 +1,9 @@
 <div style="display: flex;flex-direction: column;">
         <div>
-        <img src="main.jpg" style="width: 100%;height: 100%;" />
             <span style="position: absolute;top: 5%;right: 5%;">
-                <img src="https://visitor-badge.laobi.icu/badge?page_id=mfy2000.mfy2000" style="z-index: 999;width: 2%;" />
+                <img src="https://visitor-badge.laobi.icu/badge?page_id=mfy2000.mfy2000" style="z-index: 999;width: 5%;" />
             </span>
+        <img src="main.jpg" style="width: 100%;height: 100%;" />
         </div>
         <div style="display: inherit;justify-content: center;">
             <img src="https://github-readme-streak-stats.herokuapp.com?user=Mfy2000&amp;theme=ayu-light" />
