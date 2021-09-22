@@ -1,6 +1,6 @@
 <div style="display: flex;flex-direction: column;">
         <div>
-            <span style="position: absolute;top: 5%;right: 5%;">
+            <span>
                 <img src="https://visitor-badge.laobi.icu/badge?page_id=mfy2000.mfy2000" style="z-index: 999;width: 5%;" />
             </span>
         <img src="main.jpg" style="width: 100%;height: 100%;" />
