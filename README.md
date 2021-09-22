@@ -3,9 +3,7 @@
 </span>
 <img src="main.jpg" style="width: 100%;height: 100%;" />
 <p align="center"><a href="https://github.com/DenverCoder1/"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mfy2000&amp;theme=ayu-light" /></a></p>
-<p align="center">
-<a href="https://github.com/DenverCoder1/"><img src="https://github-readme-stats.vercel.app/api/?username=mfy2000&amp;&amp;theme=ayu-light" height="192px"/></a>
-<a href="https://github.com/DenverCoder1/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000&amp;layout=compact&amptheme=ayu-light" height="192px"/></a>
+<p align="center"><a href="https://github.com/DenverCoder1/"><img src="https://github-readme-stats.vercel.app/api/?username=mfy2000&amp;&amp;theme=ayu-light" height="192px"/></a><a href="https://github.com/DenverCoder1/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfy2000&amp;layout=compact&amptheme=ayu-light" height="192px"/></a>
 </p>
 
 
