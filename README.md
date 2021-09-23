@@ -57,7 +57,7 @@
 <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=whitee" />
 <img alt="Green Sock" src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=whitee" />
 <img alt="Gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=whitee" />
-<img height="100" alt="Insomnia" src="" />
+<img src="https://giphy.com/embed/b88QlTSTsj3bEHQyZf" width="384" height="480" frameBorder="0" class="giphy-embed"  />
 <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BEe" />
 <img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=whitee" />
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=whitee" />
