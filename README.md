@@ -172,13 +172,13 @@
 <a href="" ><img alt="Airtable" src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /></a>
 <a href="" ><img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="" ><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a><img src="https://media.giphy.com/media/dxCKe2dx5qD7I5gMgj/giphy.gif?cid=ecf05e47ay40q1dpjqsdx0rquhzjsbb22iqr69bfcgsfz5bg&rid=giphy.gif&ct=s" align="left" height="250px" width="250px" /></a>
 <a href="" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="" ><img alt="Google Meet" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" /></a>
 <a href="" ><img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="" ><img alt="Line" src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
 <a href="" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="" ><img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-<a><img src="https://media.giphy.com/media/dxCKe2dx5qD7I5gMgj/giphy.gif?cid=ecf05e47ay40q1dpjqsdx0rquhzjsbb22iqr69bfcgsfz5bg&rid=giphy.gif&ct=s" align="left" height="250px" width="250px" /></a>
 <a href="" ><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
 <a href="" ><img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
 <a href="" ><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
