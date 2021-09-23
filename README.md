@@ -45,6 +45,7 @@
 <img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphqle" />
 <img alt="Aurelia" src="https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fffe" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=whitee" />
+<img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=790b761194240090a72aa87c794a8200b23ce72251d819bb&rid=giphy.gif&ct=s" width="300" height="400" style="borader:2px solid black"/>
 <img alt="Buefy" src="https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289Ee" />
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=whitee" />
 <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=graye" />
@@ -57,7 +58,6 @@
 <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=whitee" />
 <img alt="Green Sock" src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=whitee" />
 <img alt="Gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=whitee" />
-<img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=790b761194240090a72aa87c794a8200b23ce72251d819bb&rid=giphy.gif&ct=s" width="300" height="400" style="borader:2px solid black"/>
 <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BEe" />
 <img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=whitee" />
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=whitee" />
