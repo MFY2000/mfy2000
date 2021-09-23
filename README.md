@@ -169,40 +169,41 @@
 
 ##📫 Contact me:
 <p align="center">
-<a href="" ><<img alt="Airtable" src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /></a>
-<a href="" ><<img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="" ><<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-<a href="" ><<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="" ><<img alt="Google Meet" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" /></a>
-<a href="" ><<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="" ><<img alt="Line" src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
-<a href="" ><<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="" ><<img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-<a href="" ><<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
-<a href="" ><<img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
-<a href="" ><<img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-<a href="" ><<img alt="Odysee" src="https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white" /></a>
-<a href="" ><<img alt="Pinterest" src="https://img.shields.io/badge/<handle>-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
-<a href="" ><<img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-<a href="" ><<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-<a href="" ><<img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white" /></a>
-<a href="" ><<img alt="Skype" src="https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" /></a>
-<a href="" ><<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
-<a href="" ><<img alt="" src="https://img.shields.io/badge/<handle>-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" /></a>
-<a href="" ><<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="" ><<img alt="TikTok" src="https://img.shields.io/badge/<handle>-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
-<a href="" ><<img alt="Tumblr" src="https://img.shields.io/badge/<handle>-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white" /></a>
-<a href="" ><<img alt="Tutanota" src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" /></a>
-<a href="" ><<img alt="Twitch" src="https://img.shields.io/badge/<handle>-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
-<a href="" ><<img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-<a href="" ><<img alt="Viber" src="https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white" /></a>
-<a href="" ><<img alt="WeChat" src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></a>
-<a href="" ><<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="" ><<img alt="Wire" src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white" /></a>
-<a href="" ><<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></a>
-<a href="" ><<img alt="Xbox" src="https://img.shields.io/badge/<handle>-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" /></a>
-<a href="" ><<img alt="YouTube" src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a href="" ><<img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /></a>
+<a href="" ><img alt="Airtable" src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /></a>
+<a href="" ><img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="" ><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="" ><img alt="Google Meet" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" /></a>
+<a href="" ><img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="" ><img alt="Line" src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
+<a href="" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="" ><img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+<a href="" ><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
+<a href="" ><img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
+<a href="" ><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="" ><img alt="Odysee" src="https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white" /></a>
+<a href="" ><img alt="Pinterest" src="https://img.shields.io/badge/<handle>-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
+<a href="" ><img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="" ><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<img src="https://media.giphy.com/media/YRJE1JzLXpENF5fooN/giphy-downsized-large.gif?cid=ecf05e47xi2u0rlgylphevgyfbmpqyys2vb1js9u0g9lkv2q&rid=giphy-downsized-large.gif&ct=s" align="left">
+<a href="" ><img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white" /></a>
+<a href="" ><img alt="Skype" src="https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" /></a>
+<a href="" ><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
+<a href="" ><img alt="" src="https://img.shields.io/badge/<handle>-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" /></a>
+<a href="" ><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="" ><img alt="TikTok" src="https://img.shields.io/badge/<handle>-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+<a href="" ><img alt="Tumblr" src="https://img.shields.io/badge/<handle>-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white" /></a>
+<a href="" ><img alt="Tutanota" src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" /></a>
+<a href="" ><img alt="Twitch" src="https://img.shields.io/badge/<handle>-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
+<a href="" ><img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="" ><img alt="Viber" src="https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white" /></a>
+<a href="" ><img alt="WeChat" src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></a>
+<a href="" ><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="" ><img alt="Wire" src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white" /></a>
+<a href="" ><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></a>
+<a href="" ><img alt="Xbox" src="https://img.shields.io/badge/<handle>-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" /></a>
+<a href="" ><img alt="YouTube" src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a href="" ><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /></a>
 </p>
 
 
