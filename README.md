@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Programming Languages</h1>
-<p align="center"><a>
+<p align="center" text-align="justify"><a>
 <img alt="Apache Groovy" width=120" src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" />   
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />                                
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />                        
