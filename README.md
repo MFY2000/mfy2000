@@ -106,6 +106,7 @@
 
 <h1 align="center">Programming Tools</h1>
 <p align="center"> 
+<img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=790b761194240090a72aa87c794a8200b23ce72251d819bb&rid=giphy.gif&ct=s" width="150" height="200" style="borader:2px solid black" align="right"/>
 <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" /> 
 <img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" />
 <img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" />
@@ -115,7 +116,6 @@
 <img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" />
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-<img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=790b761194240090a72aa87c794a8200b23ce72251d819bb&rid=giphy.gif&ct=s" width="150" height="200" style="borader:2px solid black" align="right"/>
 <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
 <img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" />
