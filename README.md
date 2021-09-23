@@ -48,7 +48,7 @@
 <img alt="Aurelia" src="https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fffe" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=whitee" />
 <!-- <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=790b761194240090a72aa87c794a8200b23ce72251d819bb&rid=giphy.gif&ct=s" width="300" height="400" style="borader:2px solid black"/> -->
-<img src="https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif?cid=ecf05e47uysn4bmbgyhzzpl5tnoclbfldjt6p1lop3zf5kmu&rid=giphy.gif&ct=s" align="left"  width="150" height="200" style="borader:2px solid black"/>
+<img src="https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif?cid=ecf05e47uysn4bmbgyhzzpl5tnoclbfldjt6p1lop3zf5kmu&rid=giphy.gif&ct=s" align="left" height="250px" width="250px" />
 <img alt="Buefy" src="https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289Ee" />
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=whitee" />
 <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=graye" />
@@ -117,7 +117,7 @@
 <img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" />
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-<img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=790b761194240090a72aa87c794a8200b23ce72251d819bb&rid=giphy.gif&ct=s" width="150" height="200" style="borader:2px solid black" align="right"/>
+<img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=790b761194240090a72aa87c794a8200b23ce72251d819bb&rid=giphy.gif&ct=s" height="250px" width="250px"  align="right"/>
 <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
 <img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" />
@@ -213,7 +213,7 @@
 
 <!-- Pin  -->
 
-  <h4>#15 Projects in 6 platform 💯</h4>
+  <h1>#15 Projects in 6 platform 💯</h1>
 
   __15 Projects in 6 platform__ is a challenge that I created for myself to get proficient in different languages by building 15 Projects with increasing complexity, over a period of . 
 
