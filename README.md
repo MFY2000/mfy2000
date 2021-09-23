@@ -3,8 +3,8 @@
 </span>
 <img src="main.jpg" style="width: 100%;height: 100%;" />
 <p align="center"><a href="https://github.com/DenverCoder1/"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mfy2000&amp;theme=ayu-light" /></a></p>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Muhammad Fahad's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mfy2000&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=FAFAFAFF&title_color=55B4D4FF&icon_color=#FF9940FF" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Muhammad Fahad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mfy2000&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=FAFAFAFF&title_color=55B4D4FF&icon_color=#FF9940FF" height="192px"/></a>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Muhammad Fahad's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mfy2000&show_icons=true&count_private=true&hide_border=false&bg_color=FAFAFAFF&title_color=55B4D4FF&icon_color=#FF9940FF" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Muhammad Fahad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mfy2000&langs_count=8&layout=compact&hide_border=false&bg_color=FAFAFAFF&title_color=55B4D4FF&icon_color=#FF9940FF" height="192px"/></a>
 </p>
 
 
