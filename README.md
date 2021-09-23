@@ -178,13 +178,13 @@
 <a href="" ><img alt="Line" src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
 <a href="" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="" ><img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+<a><img src="https://media.giphy.com/media/dxCKe2dx5qD7I5gMgj/giphy.gif?cid=ecf05e47ay40q1dpjqsdx0rquhzjsbb22iqr69bfcgsfz5bg&rid=giphy.gif&ct=s" align="left" height="250px" width="250px" /></a>
 <a href="" ><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
 <a href="" ><img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
 <a href="" ><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 <a href="" ><img alt="Odysee" src="https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white" /></a>
 <a href="" ><img alt="Pinterest" src="https://img.shields.io/badge/<handle>-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
 <a href="" ><img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-<a><img src="https://media.giphy.com/media/dxCKe2dx5qD7I5gMgj/giphy.gif?cid=ecf05e47ay40q1dpjqsdx0rquhzjsbb22iqr69bfcgsfz5bg&rid=giphy.gif&ct=s" align="left" height="250px" width="150px" /></a>
 <a href="" ><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 <a href="" ><img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white" /></a>
 <a href="" ><img alt="Skype" src="https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" /></a>
