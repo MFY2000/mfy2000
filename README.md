@@ -1,6 +1,8 @@
-<span>
+<p align="right">
+<img src="https://img.shields.io/github/followers/mfy2000.svg?style=social&label=Follow" />
+<!-- (https://github.com/mfy2000?tab=followers) -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mfy2000.mfy2000" style="z-index: 999;width: 8%;" />
-</span>
+</p>
 <img src="main.jpg" style="width: 100%;height: 100%;" />
 <p align="center"><a href="https://github.com/DenverCoder1/"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mfy2000&amp;theme=ayu-light" /></a></p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Muhammad Fahad's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mfy2000&show_icons=true&count_private=true&hide_border=false&bg_color=FAFAFAFF&title_color=FF9940FF&icon_color=F07171FF&text_color=575F66FF" height="192px"/></a>
@@ -46,7 +48,7 @@
 <img alt="Aurelia" src="https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fffe" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=whitee" />
 <!-- <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=790b761194240090a72aa87c794a8200b23ce72251d819bb&rid=giphy.gif&ct=s" width="300" height="400" style="borader:2px solid black"/> -->
-<img src="https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif?cid=ecf05e47uysn4bmbgyhzzpl5tnoclbfldjt6p1lop3zf5kmu&rid=giphy.gif&ct=s" align="left" width="300" height="200" style="borader:2px solid black"/>
+<img src="https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif?cid=ecf05e47uysn4bmbgyhzzpl5tnoclbfldjt6p1lop3zf5kmu&rid=giphy.gif&ct=s" align="left"  width="150" height="200" style="borader:2px solid black"/>
 <img alt="Buefy" src="https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289Ee" />
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=whitee" />
 <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=graye" />
@@ -158,40 +160,51 @@
 </p>
 
 
-<!-- Social media  -->
-<!-- Twitter -->
-  <a href="https://twitter.com/mfy2000">
-    <img align="left" alt="mfy2000 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-
-<!-- Symbol -->
-<!--  Garph  -->
-&#x1f4c8; 
-
-<!-- Bolding  -->
-**Talking about Personal Stuffs: **
-
 <!-- Resume -->
-- 📝[Resume]
-👀 Stats
+<!-- - 📝[Resume] -->
+<!-- 👀 Stats -->
 
 <!-- Follower -->
-[![GitHub followers](https://img.shields.io/github/followers/mfy2000.svg?style=social&label=Follow)](https://github.com/mfy2000?tab=followers)
 
 
-<!-- About -->
-I'm Muhammad Fahad! 
-  - <i>👨🏽‍💻 I’m currently working as a <b>Freelacer</b>, 🤔 I’m looking for help with Object-oriented programming (OOP) 😭;
-  
- <h2>📫 Contact me:</h2>
+##📫 Contact me:
+<p align="center">
+<a href="" ><<img alt="Airtable" src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /></a>
+<a href="" ><<img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="" ><<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="" ><<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="" ><<img alt="Google Meet" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" /></a>
+<a href="" ><<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="" ><<img alt="Line" src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
+<a href="" ><<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="" ><<img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+<a href="" ><<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
+<a href="" ><<img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
+<a href="" ><<img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="" ><<img alt="Odysee" src="https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white" /></a>
+<a href="" ><<img alt="Pinterest" src="https://img.shields.io/badge/<handle>-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
+<a href="" ><<img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="" ><<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="" ><<img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white" /></a>
+<a href="" ><<img alt="Skype" src="https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" /></a>
+<a href="" ><<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
+<a href="" ><<img alt="" src="https://img.shields.io/badge/<handle>-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" /></a>
+<a href="" ><<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="" ><<img alt="TikTok" src="https://img.shields.io/badge/<handle>-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+<a href="" ><<img alt="Tumblr" src="https://img.shields.io/badge/<handle>-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white" /></a>
+<a href="" ><<img alt="Tutanota" src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" /></a>
+<a href="" ><<img alt="Twitch" src="https://img.shields.io/badge/<handle>-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
+<a href="" ><<img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="" ><<img alt="Viber" src="https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white" /></a>
+<a href="" ><<img alt="WeChat" src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></a>
+<a href="" ><<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="" ><<img alt="Wire" src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white" /></a>
+<a href="" ><<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></a>
+<a href="" ><<img alt="Xbox" src="https://img.shields.io/badge/<handle>-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" /></a>
+<a href="" ><<img alt="YouTube" src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a href="" ><<img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /></a>
+</p>
 
-<a href="mailto:ConnectWith@muhammadfahad.com">![ConnectWith@muhammadfahad.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-
-<a href="https://www.linkedin.com/in/muhammadfahad/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-<a href="https://www.instagram.com/in/muhammadfahad/">![instagram](https://img.shields.io/badge/instagram-ff69b4-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)</a>
-
-<a href="https://www.facebook.com/in/muhammadfahad/">![Facebook](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 
 
 <!-- Learning: -->
