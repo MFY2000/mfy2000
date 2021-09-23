@@ -169,7 +169,7 @@
 
 <h1 align="center">📫 Contact me</h1>
 <p align="center">
-<a><img src="https://media.giphy.com/media/dxCKe2dx5qD7I5gMgj/giphy.gif?cid=ecf05e47ay40q1dpjqsdx0rquhzjsbb22iqr69bfcgsfz5bg&rid=giphy.gif&ct=s" align="left" height="250px" width="200px" /></a>
+<a><img src="https://media.giphy.com/media/dxCKe2dx5qD7I5gMgj/giphy.gif?cid=ecf05e47ay40q1dpjqsdx0rquhzjsbb22iqr69bfcgsfz5bg&rid=giphy.gif&ct=s" align="left" height="250px" width="250px" /></a>
 <a href="" ><img alt="Airtable" src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /></a>
 <a href="" ><img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="" ><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
