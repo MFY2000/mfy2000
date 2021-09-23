@@ -185,7 +185,9 @@
 <a href="" ><img alt="Pinterest" src="https://img.shields.io/badge/<handle>-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
 <a href="" ><img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 <a href="" ><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-<img src="https://media.giphy.com/media/YRJE1JzLXpENF5fooN/giphy-downsized-large.gif?cid=ecf05e47xi2u0rlgylphevgyfbmpqyys2vb1js9u0g9lkv2q&rid=giphy-downsized-large.gif&ct=s" align="left">
+<img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif?cid=790b761194240090a72aa87c794a8200b23ce72251d819bb&rid=giphy.gif&ct=s" width="150" height="200" style="borader:2px solid black" align="right"/>
+
+<!-- <img src="https://media.giphy.com/media/YRJE1JzLXpENF5fooN/giphy-downsized-large.gif?cid=ecf05e47xi2u0rlgylphevgyfbmpqyys2vb1js9u0g9lkv2q&rid=giphy-downsized-large.gif&ct=s" align="left"> -->
 <a href="" ><img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white" /></a>
 <a href="" ><img alt="Skype" src="https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" /></a>
 <a href="" ><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
