@@ -210,10 +210,6 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Muhammad Fahad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mfy2000&hide_border=false&bg_color=FAFAFAFF&area_color=55B4D4FF&line=FF9940FF&point=F07171FF" /></a>
 <!-- Learning: -->
-  
-  __Mobile Hybrid App Dev Using Flutter Certification__
- - [Flutter - Mobile Hybrid App Dev Using Flutter Certification Certificate](https://www.facebook.com/jawanPakistan786/)
-
 
 <!-- Pin  -->
 
@@ -228,10 +224,10 @@
   <div>
     <p>
       <a href="https://github.com/mfy2000/"> 
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfy2000&repo=" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfy2000&repo=mfy2000" alt="GitHub Stats" />
       </a>
       <a href="https://github.com/mfy2000/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfy2000&repo=" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfy2000&repo=mfy2000" alt="GitHub Stats" />
       </a>
     </p>
   </div>
