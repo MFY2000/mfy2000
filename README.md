@@ -211,7 +211,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Muhammad Fahad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mfy2000&hide_border=false&bg_color=FAFAFAFF&area_color=55B4D4FF&line=FF9940FF&point=F07171FF" /></a>
 <!-- Learning: -->
 
-<!-- Pin  -->
+<!-- Pin
 
   <h1>#15 Projects in 6 platform 💯</h1>
 
@@ -231,4 +231,4 @@
       </a>
     </p>
   </div>
-
+  -->
