@@ -38,7 +38,7 @@ if (!($db->select_db($dbName))) {
 }
 
 
-$query = "SELECT * FROM basic_setup,personal_setup,aboutus_setup";
+$query = "SELECT * FROM basic_setup,personal_setup,aboutus_setup,facts";
 $runquery = mysqli_query($db,$query);
 if(!$db){
     header("location:index-2.html");
