@@ -304,9 +304,11 @@
                   $runquery5 = mysqli_query($db,$query5);
                   while($data5 = mysqli_fetch_array($runquery5)){  
                     
+                    echo $data5['projectpic'];
+
                     $project = $project."<div class='col-lg-4 col-md-6 portfolio-item filter-".$type[$i]."'>
                     <div class='portfolio-wrap'>
-                      <img src='assets/img/portfolio/portfolio-1.jpg' class='img-fluid' alt=''>
+                      <img src='./assets/img/".$data5['projectpic']."' class='img-fluid' alt=''>
                       <div class='portfolio-info'>
                         <h4>".$data5['projectname']."</h4>
                         <p>".$type[$i]."</p>
