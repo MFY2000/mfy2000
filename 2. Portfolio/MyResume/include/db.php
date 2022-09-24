@@ -9,7 +9,18 @@
     // $password = "oKBywQi6yn4";
     // $dbName = "epiz_32077329_portfolio";
 
-$db=mysqli_connect($hostName,$userName,$password);
+    // $hostName ="sql100.liveblog365.com";
+    // $userName ="lblog_32304620";
+    // $password ="";
+    // $dbName ="lblog_32304620_portfolio";
+
+    // print_r( $db);
+    // die;
+    
+    // Create connection
+    $db=mysqli_connect($hostName,$userName,$password    );
+
+
 
 if (!($db->select_db($dbName))) {
     $sql = "CREATE DATABASE ".$dbName;
