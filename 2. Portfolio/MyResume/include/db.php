@@ -18,7 +18,7 @@
     // die;
     
     // Create connection
-    $db=mysqli_connect($hostName,$userName,$password    );
+    $db=mysqli_connect($hostName,$userName,$password);
 
 
 
@@ -34,7 +34,6 @@ if (!($db->select_db($dbName))) {
             if($start_character != '--' || $start_character != '/*' || $start_character != '//' || $row != ''){
                 $output = $output . $row;
                 $end_character = substr(trim($row), -1, 1);
-                
                 if($end_character == ';'){
                     mysqli_query($db, $output);
                     $output = '';
@@ -44,7 +43,7 @@ if (!($db->select_db($dbName))) {
         echo '<script>alert("")</script>';
     }
     else{
-        header("location:index-2.html");
+        echo $db->error;
     }
 }
 
